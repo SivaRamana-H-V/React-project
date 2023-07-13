@@ -78,7 +78,7 @@
 .u-section-3 .u-btn-1 {
   background-image: none; font-size: 0.875rem; text-transform: uppercase; font-weight: 700; letter-spacing: 2px; font-family: Roboto, sans-serif; margin: 20px 0 0
 } 
-
+/* 
 @media (max-width: 1199px) {
   .u-section-2 .u-sheet-1 {
     min-height: 703px;
@@ -139,7 +139,6 @@
   }
 }
 
-/* Add styles for u-section-3 */
 
 @media (max-width: 1199px) {
   .u-section-3 .u-sheet-1 {
@@ -238,7 +237,7 @@
     padding-left: 30px;
     padding-right: 30px;
   }
-}
+} */
 
 /* Add styles for u-section-4 */
 
@@ -332,8 +331,7 @@
   font-size: 1.125rem;
   margin: 20px 0 0;
 }
-
-/* Add styles for u-section-4 */
+/* 
 @media (max-width: 1199px) {
   .u-section-4 .u-sheet-1 {
     min-height: 193px;
@@ -377,7 +375,7 @@
     padding-left: 10px;
     padding-right: 10px;
   }
-}
+} */
 
 /* Add styles for u-section-5 */
 .u-section-5 {
@@ -477,7 +475,7 @@
 .u-section-5 .u-container-layout-4 {
   padding: 30px;
 }
-
+/* 
 @media (max-width: 1199px) {
   .u-section-5 .u-sheet-1 {
     min-height: 614px;
@@ -591,7 +589,7 @@
   .u-section-5 .u-image-2 {
     min-height: 322px;
   }
-}
+} */
 
 /* Add styles for u-section-6 */
 .u-section-6 {
@@ -638,7 +636,7 @@
   font-size: 0.875rem;
   letter-spacing: 2px;
 }
-
+/* 
 @media (max-width: 1199px) {
   .u-section-6 .u-sheet-1 {
     min-height: 310px;
@@ -665,7 +663,6 @@
   }
 }
 
-/* Add styles for u-section-6 */
 @media (max-width: 991px) {
   .u-section-6 .u-sheet-1 {
     min-height: 232px;
@@ -717,7 +714,7 @@
   .u-section-6 .u-text-1 {
     margin-left: 56px;
   }
-}
+} */
 
 /* Add styles for u-section-7 */
 .u-section-7 .u-sheet-1 {
@@ -803,7 +800,7 @@
   height: 176px;
   margin: 0 auto 0 0;
 }
-
+/* 
 @media (max-width: 1199px) {
   .u-section-7 .u-sheet-1 {
     min-height: 381px;
@@ -898,7 +895,7 @@
     height: 245px;
     width: 320px;
   }
-}
+} */
 
 /* Add styles for u-section-8 */
 .u-section-8 {
@@ -946,10 +943,8 @@
   font-style: normal;
   margin: 30px 0 0;
 }
-/* Style.css */
 
-/* Add styles for u-section-8 */
-@media (max-width: 991px) {
+/* @media (max-width: 991px) {
   .u-section-8 .u-layout-cell-1 {
     min-height: 623px;
   }
@@ -997,7 +992,9 @@
     margin-right: initial;
     margin-left: initial;
   }
-}
+} */
+
+
 
 /* Add styles for u-section-9 */
 .u-section-9 {
@@ -1069,6 +1066,7 @@
   background-position: 50% 50%;
 }
 
+/* 
 @media (max-width: 1199px) {
   .u-section-9 {
     min-height: 298px;
@@ -1243,7 +1241,9 @@
   .u-section-9 .u-image-3 {
     min-height: 387px;
   }
-}
+} */
+
+
 
 /* Add styles for u-section-10 */
 .u-section-10 {
@@ -1350,7 +1350,7 @@
   font-size: 0.875rem;
   letter-spacing: 2px;
 }
-
+/* 
 @media (max-width: 1199px) {
   .u-section-10 .u-sheet-1 {
     min-height: 194px;
@@ -1406,4 +1406,4 @@
   .u-section-10 .u-sheet-1 {
     min-height: 15px;
   }
-}
+} */

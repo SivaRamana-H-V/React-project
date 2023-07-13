@@ -7,7 +7,7 @@
  *
  * Copyright (c) 2018 Daniel Eden
  */
-
+/* 
  @-webkit-keyframes bounce {
     from,
     20%,
@@ -112,7 +112,6 @@
     animation-name: flash;
   }
   
-  /* originally authored by Nick Pettit - https://github.com/nickpettit/glide */
   
   @-webkit-keyframes pulse {
     from {
@@ -490,7 +489,6 @@
     animation-name: tada;
   }
   
-  /* originally authored by Nick Pettit - https://github.com/nickpettit/glide */
   
   @-webkit-keyframes wobble {
     from {
@@ -2848,7 +2846,6 @@
     animation-name: jackInTheBox;
   }
   
-  /* originally authored by Nick Pettit - https://github.com/nickpettit/glide */
   
   @-webkit-keyframes rollIn {
     from {
@@ -2883,7 +2880,6 @@
     animation-name: rollIn;
   }
   
-  /* originally authored by Nick Pettit - https://github.com/nickpettit/glide */
   
   @-webkit-keyframes rollOut {
     from {
@@ -3620,7 +3616,7 @@
       -webkit-transition: none !important;
       transition: none !important;
     }
-  }
+  } */
   /*end-commonstyles animate*//*! normalize.css v4.1.1 | MIT License | github.com/necolas/normalize.css */
   html {
     font-family: sans-serif;
@@ -7524,6 +7520,8 @@
   .u-layout-col > .u-size-0 {
     flex: 0 0 0%;
   }
+
+  
   @media (min-width: 1200px) {
     .u-layout-row > .u-size-60-xl {
       flex: 0 0 100%;
@@ -8810,7 +8808,7 @@
     .u-layout-col > .u-size-0-md {
       flex: 0 0 0%;
     }
-  }
+  }/* 
   @media (min-width: 576px) and (max-width: 767px) {
     .u-layout-row > .u-size-60-sm {
       flex: 0 0 100%;
@@ -9668,7 +9666,7 @@
     .u-layout-col > .u-size-0-xs {
       flex: 0 0 0%;
     }
-  }
+  } */
   .u-gutter-100 .u-layout {
     margin: -50px;
   }
@@ -10649,7 +10647,7 @@
     top: 0;
     transition: background-color 250ms ease;
   }
-  @supports ((position: -webkit-sticky) or (position: sticky)) {
+  /* @supports ((position: -webkit-sticky) or (position: sticky)) {
     .u-sticky {
       position: -webkit-sticky;
       position: sticky;
@@ -10659,7 +10657,7 @@
     .u-sticky {
       position: -webkit-sticky;
     }
-  }
+  } */
   .u-overlap .u-header {
     position: absolute;
     top: 0;
@@ -10684,7 +10682,9 @@
   .u-absolute-hcenter {
     left: 50% !important;
     transform: translateX(-50%);
-  }
+   }
+   
+   /*
   @media (min-width: 1200px) {
     .u-absolute-hcenter-xl {
       left: 50% !important;
@@ -12747,6 +12747,8 @@
   .u-columns-1 .u-popupmenu-items > li {
     width: 100%;
   }
+
+
   @media (min-width: 1200px) {
     .u-columns-1-xl .u-popupmenu-items > li {
       width: 100%;
@@ -12911,7 +12913,7 @@
     .u-columns-6-xs .u-popupmenu-items > li {
       width: 16.66666667%;
     }
-  }
+  } */
   .u-menu-dropdown .u-nav-container .u-popup-left {
     right: 0;
   }
@@ -14588,7 +14590,7 @@
   .u-align-left {
     text-align: left;
   }
-  @media (min-width: 1200px) {
+  /* @media (min-width: 1200px) {
     .u-align-left-xl {
       text-align: left;
     }
@@ -14696,7 +14698,7 @@
     .u-align-justify-xs {
       text-align: justify;
     }
-  }
+  } */
   .u-container-style:not([class*="u-align-"]) {
     text-align: left;
   }
@@ -14960,6 +14962,7 @@
   .u-pagination .u-pagination-item.u-pagination-separator {
     pointer-events: none;
   }
+/*   
   @media (max-width: 767px) {
     .u-pagination .u-pagination-item {
       display: none;
@@ -14988,7 +14991,7 @@
     .u-pagination.responsive-style2 .u-pagination-item.active ~ .u-pagination-item:nth-last-child(3) {
       display: none;
     }
-  }
+  } */
   .u-breadcrumbs {
     list-style: none;
     padding: 0;
@@ -25040,6 +25043,7 @@
   
   
   /*end-variables sitestylecss*/
+/*   
   @media (min-width: 1200px){ .u-header {background-image: none}
   .u-header .u-sheet-1 {min-height: 80px}
   .u-header .u-image-1 {margin-top: 22px; margin-right: auto; margin-bottom: 0px; margin-left: 0px}
@@ -25101,4 +25105,4 @@
   .u-footer .u-sheet-1 {min-height: 36px}
   .u-footer .u-text-1 {width: 340px; margin-top: 49px; margin-bottom: 49px; margin-left: auto; margin-right: auto} }
   
-  
+   */
