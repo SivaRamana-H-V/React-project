@@ -460,7 +460,7 @@ const Page1 = () => {
     </div>
   </section>
   <footer class="u-align-center u-black u-clearfix u-footer u-footer" id="sec-2666"><div class="u-clearfix u-sheet u-sheet-1">
-        <p class="u-small-text u-text u-text-variant u-text-1">Sample text. Click to select the text box. Click again or double click to start editing the text.</p>
+        <p class="u-small-text u-text u-text-variant u-text-1">Footer in the page</p>
       </div></footer>
   </body>
 </html>
