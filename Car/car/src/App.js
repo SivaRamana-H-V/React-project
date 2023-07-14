@@ -372,7 +372,7 @@ const Page1 = () => {
                       <a class="u-social-url" target="_blank" href="">
                       <span className="u-icon u-icon-circle u-social-facebook u-social-type-fill u-icon-1">
                         <svg className="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 112.2 112.2">
-                          <use xlinkHref="#svg-05cd" />
+                          {/* <use xlinkHref="#svg-05cd" /> */}
                         </svg>
                         <svg x="0px" y="0px" viewBox="0 0 112.2 112.2" style={{ enableBackground: "new 0 0 112.2 112.2" }} xmlSpace="preserve" id="svg-05cd" className="u-svg-content">
                           <path d="M56.1,0C25.1,0,0,25.1,0,56.1c0,31,25.1,56.1,56.1,56.1c31,0,56.1-25.1,56.1-56.1C112.2,25.1,87.1,0,56.1,0z M71.6,34.3h-8.2c-1.3,0-3.2,0.7-3.2,3.5v7.6h11.3l-1.3,12.9h-10V95H45V58.3h-7.2V45.4H45v-8.3c0-6,2.8-15.3,15.3-15.3l11.2,0V34.3z" />
@@ -382,7 +382,7 @@ const Page1 = () => {
                       <a class="u-social-url" target="_blank" href="">
                       <span className="u-icon u-icon-circle u-social-twitter u-social-type-fill u-icon-2">
                   <svg className="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 112.2 112.2">
-                      <use xlinkHref="#svg-ed78"></use>
+                      {/* <use xlinkHref="#svg-ed78"></use> */}
                     </svg>
                     <svg x="0px" y="0px" viewBox="0 0 112.2 112.2" style={{ enableBackground: 'new 0 0 112.2 112.2' }} xmlSpace="preserve" id="svg-ed78" className="u-svg-content">
                       <path d="M56.1,0C25.1,0,0,25.1,0,56.1s25.1,56.1,56.1,56.1s56.1-25.1,56.1-56.1S87.1,0,56.1,0z M83.8,47.3 c0,0.6,0,1.2,0,1.7c0,17.7-13.5,38.2-38.2,38.2c-7.6,0-14.6-2.2-20.6-6c1,0.1,2.1,0.2,3.2,0.2c6.3,0,12.1-2.1,16.7-5.7 c-5.9-0.1-10.8-4-12.5-9.3c0.8,0.2,1.7,0.2,2.5,0.2c1.2,0,2.4-0.2,3.5-0.5c-6.1-1.2-10.8-6.7-10.8-13.1c0-0.1,0-0.1,0-0.2 c1.8,1,3.9,1.6,6.1,1.7c-3.6-2.4-6-6.5-6-11.2c0-2.5,0.7-4.8,1.8-6.7c6.6,8.1,16.5,13.5,27.6,14c-0.2-1-0.3-2-0.3-3.1 c0-7.4,6-13.4,13.4-13.4c3.9,0,7.3,1.6,9.8,4.2c3.1-0.6,5.9-1.7,8.5-3.3c-1,3.1-3.1,5.8-5.9,7.4c2.7-0.3,5.3-1,7.7-2.1 C88.7,43,86.4,45.4,83.8,47.3z"></path>
@@ -392,7 +392,7 @@ const Page1 = () => {
                       <a class="u-social-url" target="_blank" href="">
                       <span className="u-icon u-icon-circle u-social-instagram u-social-type-fill u-icon-3">
                         <svg className="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 112.2 112.2">
-                        <use xlinkHref="#svg-556d"></use>
+                        {/* <use xlinkHref="#svg-556d"></use> */}
                       </svg>
                       <svg x="0px" y="0px" viewBox="0 0 112.2 112.2" style={{ enableBackground: 'new 0 0 112.2 112.2' }} xmlSpace="preserve" id="svg-556d" className="u-svg-content">
                         <path d="M56.1,0C25.1,0,0,25.1,0,56.1c0,31,25.1,56.1,56.1,56.1c31,0,56.1-25.1,56.1-56.1C112.2,25.1,87.1,0,56.1,0z M90.6,73.4c0,9.6-7.8,17.5-17.5,17.5H38.6c-9.6,0-17.5-7.9-17.5-17.6V38.8c0-9.6,7.8-17.5,17.5-17.5h34.5c9.6,0,17.5,7.8,17.5,17.5 V73.4z"></path>
@@ -403,8 +403,8 @@ const Page1 = () => {
                       </a>
                       <a class="u-social-url" target="_blank" href="">
                         <span className="u-icon u-icon-circle u-social-google u-social-type-fill u-icon-4">
-                          <svg className="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 112.2 112.2">
-                          <use xlinkHref="#svg-af15"></use></svg>
+                          <svg className="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 112.2 112.2"/>
+                          {/* <use xlinkHref="#svg-af15"></use></svg> */}
                           <svg x="0px" y="0px" viewBox="0 0 112.2 112.2" style={{ enableBackground: 'new 0 0 112.2 112.2' }} xmlSpace="preserve" id="svg-af15" className="u-svg-content">
                           <path d="M56.1,0C25.1,0,0,25.1,0,56.1s25.1,56.1,56.1,56.1c31,0,56.1-25.1,56.1-56.1S87.1,0,56.1,0z M60.1,73.8 c-5.7,7.4-16.3,9.5-24.9,6.6c-9.1-3-15.8-12.2-15.6-21.9c-0.5-11.9,10-22.9,21.9-23.1c6.1-0.5,12,1.8,16.6,5.7 c-1.9,2.1-3.8,4.1-5.9,6.1c-4.1-2.5-8.9-4.3-13.7-2.7c-7.6,2.2-12.3,11.2-9.4,18.7c2.3,7.8,11.8,12.1,19.3,8.8 c3.9-1.4,6.4-4.9,7.5-8.8c-4.4-0.1-8.8,0-13.3-0.2c0-2.6,0-5.2,0-7.9c7.4,0,14.7,0,22.1,0C65.2,61.8,64.2,68.7,60.1,73.8z M92.3,61.9c-2.2,0-4.4,0-6.6,0c0,2.2,0,4.4,0,6.6c-2.2,0-4.4,0-6.6,0c0-2.2,0-4.4,0-6.6c-2.2,0-4.4,0-6.6,0c0-2.2,0-4.4,0-6.6 c2.2,0,4.4,0,6.6,0c0-2.2,0-4.4,0.1-6.6c2.2,0,4.4,0,6.6,0c0,2.2,0,4.4,0,6.6c2.2,0,4.4,0,6.6,0C92.3,57.5,92.3,59.7,92.3,61.9z"></path>
                           </svg>
@@ -459,6 +459,9 @@ const Page1 = () => {
       </div>
     </div>
   </section>
+  <footer class="u-align-center u-black u-clearfix u-footer u-footer" id="sec-2666"><div class="u-clearfix u-sheet u-sheet-1">
+        <p class="u-small-text u-text u-text-variant u-text-1">Sample text. Click to select the text box. Click again or double click to start editing the text.</p>
+      </div></footer>
   </body>
 </html>
   );
